@@ -48,3 +48,16 @@ section div {
     padding-top: 24px;
     border-radius: 8px;
 }
+
+button {
+    border: none;
+    padding: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(61, 157, 246);
+}
+
+button{
+    margin-top: 15px;
+}
